@@ -47,4 +47,14 @@ The mechanism ensures **ε-LDP** for both the key and value domains by introduci
 
 ## Citation
 
-If you use this code in your research, please consider citing the associated paper (to be updated once published).
+If you use this code in your research, please consider citing the associated paper.
+
+@ARTICLE{11421911,
+  author={Zhang, Junpeng and Zhu, Hui and Zhao, Jiaqi and Li, Mengqian and Zhang, Shuang and Xie, Bin and Li, Hui},
+  journal={IEEE Transactions on Information Forensics and Security}, 
+  title={Achieving Privacy-Preserving and High-Accuracy Collection of Key-Value Data With Local Differential Privacy}, 
+  year={2026},
+  volume={21},
+  number={},
+  pages={2785-2798},
+  doi={10.1109/TIFS.2026.3671048}}
